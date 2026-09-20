@@ -18,7 +18,6 @@ Proyek ini bertujuan untuk:
 ## Dataset
 
 - **Sumber:** Telco Customer Churn Dataset from IBM Sample Data Sets on Kaggle
-- **[View Dataset on Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)**
 - **Jumlah Data:** 7,043 pelanggan
 - **Jenis Data:** Data pelanggan layanan telekomunikasi
 
