@@ -1,7 +1,7 @@
 # Telco Customer Churn Prediction
 ## Gambaran Umum
 
-Customer churn merupakan salah satu permasalahan yang penting dalam analisis pelanggan karena dapat memengaruhi keberlangsungan bisnis dan pendapatan perusahaan. Project ini mengembangkan model machine learning untuk memprediksi kemungkinan pelanggan berhenti menggunakan layanan berdasarkan informasi demografi, layanan, kontrak, dan akun pelanggan.
+Project ini mengembangkan model machine learning untuk memprediksi kemungkinan pelanggan berhenti menggunakan layanan berdasarkan informasi demografi, layanan, kontrak, dan akun pelanggan.
 
 Analisis mencakup eksplorasi data, feature engineering, pengembangan model klasifikasi, hyperparameter tuning, evaluasi model, serta segmentasi pelanggan berdasarkan tingkat risiko churn.
 
@@ -120,7 +120,7 @@ Segmen High Risk terdiri dari **921 pelanggan**, dengan rata-rata probabilitas c
 
 Sebanyak **920 dari 921 pelanggan High Risk** memiliki kontrak **Month-to-Month**, dengan actual churn rate sebesar **75.0%**.
 
-pelanggan dengan kontrak Month-to-Month merupakan kelompok yang sangat dominan dalam segmen High Risk dan dapat menjadi perhatian dalam analisis retensi pelanggan.
+pelanggan dengan kontrak Month-to-Month merupakan kelompok yang sangat dominan dalam segmen High Risk dan dapat menjadi perhatian dalam analisis customer churn.
 
 ## Business Insights
 
@@ -130,7 +130,7 @@ Beberapa insight yang diperoleh dari analisis:
 2. Pelanggan dengan kontrak Month-to-Month mendominasi segmen High Risk.
 3. Segmentasi risiko menunjukkan hubungan yang jelas antara probabilitas churn yang diprediksi dengan churn aktual pelanggan.
 
-Insight dapat digunakan sebagai dasar untuk analisis lebih lanjut terkait retensi dan identifikasi pelanggan yang membutuhkan perhatian lebih.
+Insight dapat digunakan sebagai dasar untuk analisis lebih lanjut terkait churn dan identifikasi pelanggan yang membutuhkan perhatian lebih. 
 
 ## Tech Stack
 
